@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/(auth)/_layout.js", "app/(auth)/login.jsx", "app/(auth)/forgotPassword.jsx", "app/(auth)/otp.jsx", "app/(auth)/resetPass.jsx", "app/(auth)/signup.jsx", "app/(auth)/verify.jsx", "app/(tabs)/_layout.js", "app/(tabs)/article.jsx", "app/(tabs)/index.jsx", "app/(tabs)/profile.jsx", "app/(tabs)/video.jsx", "app/details/[id].jsx", "app/profilePages/changePassword.jsx", "app/profilePages/privacy.jsx", "app/profilePages/terms.jsx", "app/_layout.js"  ]
 }
